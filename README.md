@@ -1,4 +1,4 @@
-# student-mobile-portal
+# Student Mobile Portal
 A student portal project for practicing Git and GitHub collaboration.
 
 # Student Profile Component
